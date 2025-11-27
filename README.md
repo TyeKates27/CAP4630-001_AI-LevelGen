@@ -33,7 +33,7 @@ All levels share a **fixed row width**, allowing them to form a clean rectangula
 
 Example snippet from the dataset:
 
-
+![Dataset Example](https://github.com/TyeKates27/CAP4630-001_AI-LevelGen/blob/main/Sample%20Dataset%20Screenshot.PNG?raw=true)
 ---
 
 ## 🧠 Models Used
@@ -151,10 +151,10 @@ This means the model generated correct style, but inconsistent structure.
 📘 Sample Outputs
 
 3-gram Output Snippet
-(paste 4–8 lines from sample_ngram.txt here)
+![Dataset Example](https://github.com/TyeKates27/CAP4630-001_AI-LevelGen/blob/main/Sample%203-gram%20Screenshot.PNG?raw=true)
 
 LSTM Output Snippet
-(paste 4–8 lines from sample_lstm.txt here)
+![Dataset Example](https://github.com/TyeKates27/CAP4630-001_AI-LevelGen/blob/main/Sample%20LSTM%20Screenshot.PNG?raw=true)
 
 Interpretation
 
