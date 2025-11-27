@@ -54,28 +54,29 @@ Example snippet from the dataset:
 
 ## 🔧 Project Structure
 
+```
 ai-levelgen/
 │
 ├── data/
-│ ├── raw/ # Original ASCII levels
-│ └── processed/ # Combined dataset (dataset.txt)
+│   ├── raw/                # Original ASCII levels
+│   └── processed/          # Combined dataset (dataset.txt)
 │
 ├── models/
-│ ├── ngram.pkl # Trained 3-gram model
-│ └── lstm.pt # Trained LSTM weights
+│   ├── ngram.pkl           # Trained 3-gram model
+│   └── lstm.pt             # Trained LSTM weights
 │
 ├── reports/
-│ └── figures/ # Generated sample levels
+│   └── figures/            # Generated sample levels
 │
 ├── src/
-│ ├── prepare_data.py # Builds training corpus
-│ ├── ngram.py # 3-gram training
-│ ├── lstm_train.py # LSTM training script
-│ ├── generate.py # Level generator
-│ └── evaluate.py # KL + playability evaluation
+│   ├── prepare_data.py     # Builds training corpus
+│   ├── ngram.py            # 3-gram training
+│   ├── lstm_train.py       # LSTM training script
+│   ├── generate.py         # Level generator
+│   └── evaluate.py         # KL + playability evaluation
 │
 └── Final Project Presentation.pptx
-
+```
 
 ---
 
