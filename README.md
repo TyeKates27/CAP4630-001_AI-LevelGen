@@ -5,6 +5,14 @@ AI models that generate 2D platformer levels from ASCII text using N-gram and LS
 **CAP 4630 – Intro to Artificial Intelligence**  
 **Team 25:** Tye Kates, Rodney Benjamin, Thomas Gregory, Jacob Eurglunes, Adam Kieszkowski
 
+# Tye Kates Final Project Presentation for CAP 4630 001 link:
+
+https://youtu.be/na_LF3Q0VEM
+
+# Tye Kates Final Project emo for CAP 4630 001 link:
+
+https://youtu.be/taYs3lhh9wU
+
 ---
 
 ## 📌 Project Overview
